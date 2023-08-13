@@ -41,6 +41,6 @@ else
             ;;
         *)
             echo "Invalid subdomain: $subdomain"
-            ;;
-    esac
+            ;;
+    esac
 fi
